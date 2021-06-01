@@ -15,6 +15,7 @@ We are interested in the calculation of <ρ>, the average fraction of infected n
 Setup:
 
   The following python packages were used:
+  
     - networkx: to create/manipulate and save the networks
     - random: to generate random numbers from a uniform distribution
     - multiproccessing: to parallelize the repetitions of the simulations
