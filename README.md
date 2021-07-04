@@ -2,7 +2,7 @@
 
 This work is about a Monte Carlo simulation of SIS (Susceptible-Infected-Susceptible) epidemic models.
 
-An SIS model is an epidemiology Compartmental model, characterized by 2 parameters:
+A SIS model is an epidemiology Compartmental model, characterized by 2 parameters:
   - µ: spontaneous recovery probability.
   - β: infection probability of a susceptible (S) individual when it is contacted by an infected (I) one.
   
